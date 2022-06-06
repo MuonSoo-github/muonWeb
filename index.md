@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ## Muon Grid
 
 You can use the [editor on GitHub](https://github.com/MuonSoo-github/muonWeb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
