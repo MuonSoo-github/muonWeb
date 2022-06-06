@@ -1,10 +1,9 @@
 ---
 layout: home
 title: 
-date: 2022-06-07 
+date: 2020-11-20 
 ---
-### 좋은 하루입니다.
-오늘도 기쁜 마음으로 개발에 전념하시죠.
-
+### Hi, I'm Dumbarton 👋
+Dumbarton is a Jekyll Theme developed by [Tyler Butler](https://github.com/tcbutler320). The theme is designed for academics and features a simple home page with an about me section and an interactive highlights section to describe publications, coursework, courses taught, and projects. You can checkout the project on [Github](https://github.com/tcbutler320/Jekyll-Theme-Dumbarton), feel free to make contributions and feature requests and don't forget to give it a star.
 
 <a href="/contact.html" class="highlighted">Contact Me</a>
